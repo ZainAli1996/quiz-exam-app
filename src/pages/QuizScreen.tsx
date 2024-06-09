@@ -55,7 +55,7 @@ function MyQuizApp() {
     return (
         <section>
             <div className="header">
-                <h2>Quiz Application</h2>
+                <h1>Quiz Application</h1>
             </div>
 
             <div className="body">
